@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TaskList</string>
+    <string name="borrar">Borrar</string>
+    <string name="agregar">Agregar</string>
+    <string name="audio">Audio</string>
+    <string name="buscar">Buscar...</string>
+    <string name="descripcion">descripcion</string>
+    <string name="Tareas">Tareas</string>
+</resources>

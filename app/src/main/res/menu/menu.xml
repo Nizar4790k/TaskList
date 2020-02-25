@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/buscar"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="@string/buscar"
+        app:actionViewClass="android.support.v7.widget.SearchView"
+        app:showAsAction="always" />
+    <item
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="@string/agregar"
+        android:id="@+id/agregar"
+        app:showAsAction="always"/>
+</menu>
